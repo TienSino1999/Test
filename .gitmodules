@@ -1,0 +1,3 @@
+[submodule "reactjs-basic"]
+	path = reactjs-basic
+	url = ../../mag002/reactjs-basic
